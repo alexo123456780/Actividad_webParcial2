@@ -1,0 +1,14 @@
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/bin/Debug/net8.0/CalculadoraBasica
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/bin/Debug/net8.0/CalculadoraBasica.deps.json
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/bin/Debug/net8.0/CalculadoraBasica.runtimeconfig.json
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/bin/Debug/net8.0/CalculadoraBasica.dll
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/bin/Debug/net8.0/CalculadoraBasica.pdb
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/obj/Debug/net8.0/CalculadoraBasica.GeneratedMSBuildEditorConfig.editorconfig
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/obj/Debug/net8.0/CalculadoraBasica.AssemblyInfoInputs.cache
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/obj/Debug/net8.0/CalculadoraBasica.AssemblyInfo.cs
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/obj/Debug/net8.0/CalculadoraBasica.csproj.CoreCompileInputs.cache
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/obj/Debug/net8.0/CalculadoraBasica.dll
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/obj/Debug/net8.0/refint/CalculadoraBasica.dll
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/obj/Debug/net8.0/CalculadoraBasica.pdb
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/obj/Debug/net8.0/CalculadoraBasica.genruntimeconfig.cache
+/home/maganalopezalejandro/Documentos/CalculadoraBasica/obj/Debug/net8.0/ref/CalculadoraBasica.dll
