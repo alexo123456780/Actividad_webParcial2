@@ -6,3 +6,4 @@ public class Dividir: Operacion
         return Numero1/Numero2;
     }
 }
+//pito
